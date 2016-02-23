@@ -11,8 +11,6 @@ class CiphererApp extends Panel03 {
 		   frame.setContentPane(new Panel03());
 		   frame.setVisible(true);
 		   frame.setAlwaysOnTop(true);
-		
-		// System.out.println("Your ciphered phrase is: " + cipheredSentence);
 	}
 }
 
